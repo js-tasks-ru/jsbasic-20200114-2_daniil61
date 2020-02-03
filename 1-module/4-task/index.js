@@ -5,7 +5,7 @@
  */
 function checkSpam(str) {
     let result = false;
-    const arr = ['1XbeT now', 'free xxxxx', 'innocent rabbit'];
+    const arr = ['1XbeT now', 'free xxxxx'];
     arr.forEach( function( item, i, arr ) {
 
 
